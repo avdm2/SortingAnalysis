@@ -1,0 +1,27 @@
+UNSORTED.
+DATA = [3, 1, 4, 1, 5, 9, 2, 6, 5, 3, 5].
+SORTED. TIME = 1500ns; OPERATIONS = 0.
+DATA = [1, 1, 2, 3, 3, 4, 5, 5, 5, 6, 9].
+
+UNSORTED.
+DATA = [4, 8, 15, 16, 23, 42].
+SORTED. TIME = 700ns; OPERATIONS = 0.
+DATA = [4, 8, 15, 16, 23, 42].
+
+UNSORTED.
+DATA = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10].
+SORTED. TIME = 1500ns; OPERATIONS = 0.
+DATA = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10].
+
+UNSORTED.
+DATA = [10, 9, 8, 7, 6, 5, 4, 3, 2, 1].
+SORTED. TIME = 1600ns; OPERATIONS = 0.
+DATA = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10].
+
+UNSORTED.
+DATA = [1].
+SORTED. TIME = 100ns; OPERATIONS = 0.
+DATA = [1].
+
+DATA: EMPTY.
+
